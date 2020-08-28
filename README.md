@@ -1,6 +1,6 @@
 # Phonia Toolkit
 
-![phonia](https://user-images.githubusercontent.com/54115104/74159383-c2e0b600-4c2c-11ea-9aeb-62146b1af5bf.jpeg)
+<h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619957-3ebb0980-e997-11ea-83fc-c8c58982454d.png" alt="logo" height="250px"></h3>
 
 <p align="center">
   <a href="http://entynetproject.simplesite.com/">
